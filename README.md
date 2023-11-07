@@ -2,8 +2,8 @@
 
 # TSWD-portfolio-templates
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/)
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/noumanahmed-cmu/NoumanAhmed-Portfolio)
+- Web page URL: [https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/]
+- This repository: [https://github.com/noumanahmed-cmu/NoumanAhmed-Portfolio]
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably (read: definitely) hire me. 
