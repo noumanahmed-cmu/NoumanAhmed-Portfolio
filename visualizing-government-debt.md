@@ -5,14 +5,7 @@
 
 # Part 2: 
 
-<script type='text/javascript'>
-var divElement = document.getElementById('viz1699418507844');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<script type='text/javascript'> var divElement = document.getElementById('viz1699412131844'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%'; vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 I believe that this visualization does a fairly good job of representing the data. The color scheme makes it easy to identify the over-leveraged population. I like the heat map since there are an immense number of data points, and the heat map is more suited to capture this large amount of data. I have visualized the data as a geographic map for my third part, but in comparison, this one looks better since it makes it easy to see the trend immediately. 
 
