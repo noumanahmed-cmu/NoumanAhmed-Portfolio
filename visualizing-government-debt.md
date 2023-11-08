@@ -19,14 +19,13 @@ I believe that this visualization does a fairly good job of representing the dat
 
 # Part 3:
 
-<script type='text/javascript'>                    
-var divElement = document.getElementById('viz1699415573748');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    
-vizElement.style.width='100%';
-vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-var scriptElement = document.createElement('script');                    
+<script type='text/javascript'>
+var divElement = document.getElementById('viz1699418119936');
+var vizElement = divElement.getElementsByTagName('object')[0];
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-For this visualization, I first changed the role of the location varibale to 'Geographical - Country'. This allowed me to fetch them lat and long, allowing Tableau to make a geographical map of them. I then used a red-green color scheme, since that made sense in this context where we are trying to highlight the countries with high debt-to-GDP ratio. I reversed the color scheme, and added 10 steps  in color schemes to differentiate more clearly between the countries. I added country as label, and both country and debt-to-GDP ratio in the tool tip.
+For this visualization, I first changed the role of the location varibale to 'Geographical - Country'. This allowed me to fetch them lat and long, allowing Tableau to make a geographical map of them. I then used a red-green color scheme, since that made sense in this context where we are trying to highlight the countries with high debt-to-GDP ratio. I reversed the color scheme and added 10 steps  in color schemes to differentiate more clearly between the countries. I added country as label, and both country and debt-to-GDP ratio in the tooltip.
