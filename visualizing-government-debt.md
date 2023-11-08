@@ -17,7 +17,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 # Part 3:
 
-<<script type='text/javascript'>                    
+<script type='text/javascript'>                    
 var divElement = document.getElementById('viz1699415573748');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
 vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
