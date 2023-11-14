@@ -32,8 +32,6 @@ I think the visualization is somewhat effective for bloggers perhaps, but I thin
 
 I think it is more useful than the previous method since it does the categorization for you. These categories nudge you to think in a particular direction which is I believe useful for organizing your thoughts. The old one merely divided into basic questions which you would have thought about anyway.
 
-## Summary of Wireframe
-
 ## Sketching out the solution
 
 ## User Feedback
