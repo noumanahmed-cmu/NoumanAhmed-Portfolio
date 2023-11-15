@@ -1,9 +1,9 @@
 | [home page](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/) |
 | [visualizing debt](visualizing-government-debt) | 
-| [critique by design]([critique-by-design](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/critique-by-design)) | 
-| [final project I](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-one)) | 
-| [final project II]([final-project-part-two](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-two) | 
-| [final project III]([final-project-part-three](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
+| [critique by design](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/critique-by-design) | 
+| [final project I](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-one) | 
+| [final project II](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-two) | 
+| [final project III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
 
 # TSWD-portfolio-templates
 
