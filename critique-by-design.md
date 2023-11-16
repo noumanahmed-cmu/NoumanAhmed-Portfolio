@@ -7,7 +7,7 @@ NYC Slice
 https://elkue.com/nyc-slice/
 https://data.world/makeovermonday/2023w5
 
-## Feedback:
+## Critique/Feedback:
 
 (1)	Usefulness: I do not think that the information is particularly useful for an average New Yorker, because if I am looking for a pizza place to grab a slice from, the price is not likely to be the only factor in my consideration. A big factor for me would also be the quality of pizza. That information is missing from this visualization. And while it still does a good job at explaining the price trends, for an average person, it is an insufficient source for making the decision.
 
@@ -44,10 +44,19 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
 ## User Feedback
 
+Notes from Interviews - two adults 27, 29, roommate and class fellow
 
+title is a bit imbagious, is the iconic pizza name of a pizza chain/pizza store?
+legend should be more prominent with clearer demarcation between price points. current gradient scale of legend is a bit subtle, and hard to differentiate without focusing.
+Finding the data points a bit confusing, because some data points have pizza prices for 2014, some for 2015, and for different pizza outlets
+I can tell that it is about the price of pizza slices in newyork city, but i am a bit confused about which year or time period is that data on visualization
+I can't really tell if this shows the change in price or price at one point in time
+Confused about the data, i don't know for which time period the data is on the visualizaiton.
+I would change the legend. legend should be more prominent with clearer demarcation between price points. current gradient scale of legend is a bit subtle, and hard to differentiate without focusing.
+
+My Reflections on this: I was mostly anticipating this kinda of feedback, especially with the lack of context. I chose the map visualization but when it came to implementing it in Tableau, I ran into several issues. I did not know how to move beyond the basic map. Whatever I googled, it mostly directed me to GIS software for making better map visualization, which was not the scope here. 
 
 ## Building Solution - Watch Me Viz
 
@@ -60,3 +69,21 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+Source: https://www.makeovermonday.co.uk/data/
+https://elkue.com/nyc-slice/
+
+
+Reflections: I followed the video of makeovermonday.com to rebuild the visualization and I am kinda mind-blow by how much tableau could do. I was thinking on a totally different tangent. I did not even think about joining another spatial file. I have taken a Tableau class here at Heinz, and we never got around to using this functionality. I believe that on a lot points (the one mentioned in the critique design), the revised visualization hits the mark. The following changes are made now which I had included in my Google form:
+
+1 . There is a legend now which improved the 'completeness' aspect of visualization. There is also better color-coded categorization of plain vs. pepperoni pizza. 
+2. The color scheme is better now since red and yellow are very visible and prominent and are not competing for space.
+3. There are filters now which allow users to tinker around with data and also joining the spatial file of NYC's counties massively improved the usefulness of visualization for users, since now I can look up an area of my interest.
+4. The issue of truthfulness is still there but that is data's inherent fault, not the visualization's. For context, I had mentioned that data has been collected over time from different restaurants which makes the comparison a bit difficult.
+5. Overall aesthetics are pretty good. As little as adding the padding to various elements in the dashboard improved it so much. Removing the row/column divider, adding divider lines where needed, adding explanations and sort of guide to use the dashboard, proper alignment of all the elements on dashboard, add small maps behind each county name- all these contributed to improving the overall aesthetic of the visualization.
+
+For me, the best part of this assignment was simply learning that tableau could do much with GIS data. I had no idea about that at all. 
+
+
+
+
