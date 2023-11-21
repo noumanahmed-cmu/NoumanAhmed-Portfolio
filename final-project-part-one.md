@@ -5,8 +5,6 @@
 | [final project II](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-two) | 
 | [final project III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
  
 This project focuses on advocating for the abolition of filibusters, a crucial and often contentious aspect of the legislative process in the U.S. Senate. My objective is twofold: to educate about the filibuster's history and current role, and to advocate for its removal. I will delve into the evolution of the filibuster, highlighting its impact on lawmaking and governance. While acknowledging the counterargument that filibusters can foster debate, I will provide evidence and reasoning to refute this perspective, ultimately leading to the conclusion that the drawbacks of filibusters outweigh their purported benefits, thus underscoring the need for their abolition.
