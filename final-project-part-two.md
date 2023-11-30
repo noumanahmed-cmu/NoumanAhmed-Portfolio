@@ -6,9 +6,12 @@
 | [final project III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+I chose to build a draft of my story in shorthand directly. My approach was to first simply put all the section slides in the sequence I wanted without putting the actual content in those slides. After that, I first filled up the slides with content from last week and then the rest. As I progressed, I had to reshuffle the sequence of information and story, eliminate few points, and added some new. Below is my shorthand story:
 
-Text here!
+[The Case against Filibuster](https://carnegiemellon.shorthandstories.com/the-case-against-filibuster/index.html)
+
+<script src="https://carnegiemellon.shorthandstories.com/the-case-against-filibuster/embed.js"></script>
+
 
 # User research 
 
