@@ -6,7 +6,7 @@
 | [final project III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
 
 # Wireframes / storyboards
-I chose to build a draft of my story in shorthand directly. My approach was to first simply put all the section slides in the sequence I wanted without putting the actual content in those slides. After that, I first filled up the slides with content from last week and then the rest. As I progressed, I had to reshuffle the sequence of information and story, eliminate few points, and added some new. Below is my shorthand story:
+I chose to build a draft of my story in shorthand directly. My approach was to first simply put all the section slides in the sequence I wanted without putting the actual content in those slides. After that, I first filled up the slides with content from last week and then the rest. As I progressed, I had to reshuffle the sequence of information and story, eliminate few points, and added some new. Below is my shorthand story link. It is best if it is directly viewed on the shorthand website. 
 
 [The Case against Filibuster](https://carnegiemellon.shorthandstories.com/the-case-against-filibuster/index.html)
 
