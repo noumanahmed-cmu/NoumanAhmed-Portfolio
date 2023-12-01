@@ -43,3 +43,4 @@ My target audience is US residents, who are above the age of 18 (i.e. voting age
 | The topic is still too complicated to understand. | Add more explanation and break down the sections into simpler chunks. |
 | Data points are fine. No more data needed. | N/A                               |
 | Design elements are okay. | N/A             |
+| Call to action is actionable but the users are not necessarily over-excited about it. | Not sure what can I do here. Need to discuss.             |
