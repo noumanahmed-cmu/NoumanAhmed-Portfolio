@@ -22,16 +22,13 @@ I want to learn the cool visualizations that you see on sites like Fivethirtyeig
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing Government Debt](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/critique-by-design)
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+For my final project, I presented the case against filibuster. The project focuses on advocating for reforming filibusters, a crucial and often contentious aspect of the legislative process in the U.S. Senate. My objective is twofold: to educate about the filibuster’s history and current role, and to advocate for its reformation. 
+
 [Part I](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-one)
 [Part II](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-two)
 [Part III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three)
