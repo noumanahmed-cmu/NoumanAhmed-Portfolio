@@ -12,23 +12,23 @@
 
 In this section, I am gonna address the critique and feedback from interviews one-by-one:
 
-1. "For the "What is [a] Filibuster", where did this definition come from? If it came from a secondary source, you'd want to cite it."
+- "For the "What is [a] Filibuster", where did this definition come from? If it came from a secondary source, you'd want to cite it."
 
 Done. All material is duly cited now. 
    
-2. "I'm surprised everyone you spoke with understood what a filibuster is!"
+-  "I'm surprised everyone you spoke with understood what a filibuster is!"
 
 For starters, I made a mistake in the interview script, where I only mentioned the summarized version of the responses. Interviewees did understand the filibuster but it took them a lot of time and questions from me to reach that point. Unfortunately, I did not document that part on my GitHub in the research section, as I should have.  Coming to the point of how I addressed this issue, I mainly added one more section that uses the analogy of a friend group deciding which movie to watch as the setup for explaining the filibuster. I think it should be easy now for readers to understand what a filibuster exactly is. 
 
-3. "You'll want to replace things like the screengrab of the movie and any other photos that are copyright protected. See the library guide for more"
+-  "You'll want to replace things like the screengrab of the movie and any other photos that are copyright protected. See the library guide for more"
 
 Addressed in the references section below. 
 
-4. "I would dig more into the "how to reform" the filibuster section - this seems like an area that could use some further definition."
+-  "I would dig more into the "how to reform" the filibuster section - this seems like an area that could use some further definition."
 
 I have added more explanation in the slide preceding it. This should also make the transition and flow of the story smoother.  
 
-5. "First viz is helpful - could probably play around a bit with the colors, etc. Not sure the evolving Senate dynamics line graph matches the title. Good start on the wireframes! Might benefit from establishing a unique color scheme that would apply throughout."
+-  "First viz is helpful - could probably play around a bit with the colors, etc. Not sure the evolving Senate dynamics line graph matches the title. Good start on the wireframes! Might benefit from establishing a unique color scheme that would apply throughout."
 
 I have changed the title to a simpler, but more descriptive one. As for the color scheme of the overall story, I have chosen black-and-white. I believe that the topic is serious, and thus, a black-and-white color scheme is appropriate here. The visualizations are an exception here. Mainly, I have used the default blue, but in one visualization, where there is mention of political parties, I have used their respective party colors (i.e. blue for Democrats). Using color for visualizations over a black-and-white color scheme also makes them more pop-out, which is a positive I believe. To match the color scheme, I also made all the pictures black-and-white for consistency.
 
