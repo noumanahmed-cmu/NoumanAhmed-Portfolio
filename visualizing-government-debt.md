@@ -1,9 +1,10 @@
-| [home page](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/) |
-| [visualizing debt](visualizing-government-debt) | 
-| [critique by design](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/critique-by-design) | 
-| [final project I](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-one) | 
-| [final project II](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-two) | 
-| [final project III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
+| [Home Page](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/) |
+| [Visualizing Debt](visualizing-government-debt) | 
+| [Critique by design](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/critique-by-design) | 
+| [Final Project I](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-one) | 
+| [Final Project II](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-two) | 
+| [Final Project III](https://noumanahmed-cmu.github.io/NoumanAhmed-Portfolio/final-project-part-three) |
+
 
 # Part 1
 <iframe src="https://data.oecd.org/chart/7fa5" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fa5" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
