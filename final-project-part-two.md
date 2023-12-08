@@ -10,9 +10,6 @@ I chose to build a draft of my story in shorthand directly. My approach was to f
 
 [The Case against Filibuster](https://carnegiemellon.shorthandstories.com/the-case-against-filibuster/index.html)
 
-<script src="https://carnegiemellon.shorthandstories.com/the-case-against-filibuster/embed.js"></script>
-
-
 # User research 
 
 ## Target audience
